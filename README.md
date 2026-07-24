@@ -107,6 +107,3 @@ Aspiring Software Engineer focused on **DSA, Problem Solving, Python, Java, and 
 
 ```
 
-
-आणि repo नावासाठी **`Marvellous-PPA`** clean दिसेल.
-```
